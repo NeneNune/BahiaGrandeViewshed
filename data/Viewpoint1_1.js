@@ -1,0 +1,1 @@
+var json_Viewpoint1_1 = {"type":"FeatureCollection","name":"Viewpoint1_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"ID":null,"observ_hgt":1.6,"radius":4828.0},"geometry":{"type":"Point","coordinates":[-97.31595326561677,26.040278388603046]}}]}
